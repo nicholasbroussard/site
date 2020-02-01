@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580589782623.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1124055981",
+    "id" : "6CB77AD8",
+    "lastKnownWriteTime" : 1580589779,
+    "last_content_update" : 1580589779,
+    "path" : "C:/Users/nicho/OneDrive/Nick/Data & Math/Site/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
