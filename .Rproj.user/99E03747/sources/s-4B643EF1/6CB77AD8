@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1124055981",
+    "hash" : "1613491381",
     "id" : "6CB77AD8",
-    "lastKnownWriteTime" : 1580589779,
-    "last_content_update" : 1580589779,
+    "lastKnownWriteTime" : 1580590154,
+    "last_content_update" : 1580590154736,
     "path" : "C:/Users/nicho/OneDrive/Nick/Data & Math/Site/config.toml",
     "project_path" : "config.toml",
     "properties" : {
+        "cursorPosition" : "27,0",
+        "scrollLine" : "16"
     },
     "read_only" : false,
     "read_only_alternatives" : [
