@@ -1,6 +1,6 @@
 #https://themes.gohugo.io/hermit/
 
-baseURL = "/"
+baseURL = "nicks-site.netlify.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Nick Broussard"
@@ -38,7 +38,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "A minimal and fast theme for Hugo."
+  homeSubtitle = ""
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
@@ -58,25 +58,35 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
   [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/"
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/nick-broussard/"
 
   [[params.social]]
-    name = "instagram"
-    url = "https://instagram.com/"
+    name = "email"
+    url = "mailto:nicholas.c.broussard@gmail.com"
 
   [[params.social]]
     name = "github"
-    url = "https://github.com/"
+    url = "https://github.com/nicholasbroussard"
+
+  [[params.social]]
+    name = "instagram"
+    url = "https://www.instagram.com/nico_c_b/"
 
 [menu]
 
   [[menu.main]]
-    name = "Posts"
-    url = "posts/"
+    name = "About"
+    url = "about-hugo/"
     weight = 10
 
   [[menu.main]]
-    name = "About"
-    url = "about-hugo/"
+    name = "Posts"
+    url = "posts/"
     weight = 20
+
+  [[menu.main]]
+    name = "Portfolio"
+    url = "portfolio/"
+    weight = 30
+

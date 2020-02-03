@@ -2,103 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nick Broussard</title>
-    <link>/tags/</link>
+    <link>/nicks-site.netlify.com/tags/</link>
     <description>Recent content in Tags on Nick Broussard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Mon, 24 Dec 2018 12:29:41 +0800</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/nicks-site.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Demo</title>
-      <link>/tags/demo/</link>
+      <link>/nicks-site.netlify.com/tags/demo/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>/nicks-site.netlify.com/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Image</title>
-      <link>/tags/image/</link>
+      <title>image</title>
+      <link>/nicks-site.netlify.com/tags/image/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
-      <guid>/tags/image/</guid>
+      <guid>/nicks-site.netlify.com/tags/image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Typography</title>
-      <link>/tags/typography/</link>
+      <link>/nicks-site.netlify.com/tags/typography/</link>
       <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
       
-      <guid>/tags/typography/</guid>
+      <guid>/nicks-site.netlify.com/tags/typography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>/tags/plot/</link>
+      <link>/nicks-site.netlify.com/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/plot/</guid>
+      <guid>/nicks-site.netlify.com/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
+      <link>/nicks-site.netlify.com/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/r-markdown/</guid>
+      <guid>/nicks-site.netlify.com/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>/tags/regression/</link>
+      <link>/nicks-site.netlify.com/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/regression/</guid>
+      <guid>/nicks-site.netlify.com/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>/tags/development/</link>
+      <link>/nicks-site.netlify.com/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/tags/development/</guid>
+      <guid>/nicks-site.netlify.com/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>/tags/go/</link>
+      <link>/nicks-site.netlify.com/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/tags/go/</guid>
+      <guid>/nicks-site.netlify.com/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>/tags/golang/</link>
+      <link>/nicks-site.netlify.com/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/tags/golang/</guid>
+      <guid>/nicks-site.netlify.com/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>/tags/hugo/</link>
+      <link>/nicks-site.netlify.com/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/tags/hugo/</guid>
+      <guid>/nicks-site.netlify.com/tags/hugo/</guid>
       <description></description>
     </item>
     
