@@ -1,6 +1,6 @@
 #https://themes.gohugo.io/hermit/
 
-baseURL = "https://www.nicks-site.netlify.com"
+baseURL = "https://nicks-site.netlify.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Nick Broussard"
